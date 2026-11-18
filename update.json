@@ -1,1 +1,6 @@
-{"versionCode": 3, "versionName": "1.2", "url": "SantaFeLauncher.apk", "notes": "Mở thẳng app Google Maps và YouTube trên box (nằm trong khung giữa nếu bật chế độ cửa sổ, hoặc toàn màn hình kèm nút nổi để quay về)."}
+{
+  "versionCode": 13,
+  "versionName": "3.0",
+  "url": "SantaFeLauncher.apk",
+  "notes": "Giao diện mới kiểu kính mờ. Dock: Bản đồ, YouTube, TikTok, Nhạc. Trình phát nhạc riêng duyệt theo thư mục (bộ nhớ box, USB, thẻ nhớ). Vuốt thẻ thời tiết để xem bản đồ dẫn đường khi đang xem YouTube/TikTok. Giảm lag."
+}
