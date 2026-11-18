@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "3.0",
+  "versionCode": 14,
+  "versionName": "3.1",
   "url": "SantaFeLauncher.apk",
-  "notes": "Giao diện mới kiểu kính mờ. Dock: Bản đồ, YouTube, TikTok, Nhạc. Trình phát nhạc riêng duyệt theo thư mục (bộ nhớ box, USB, thẻ nhớ). Vuốt thẻ thời tiết để xem bản đồ dẫn đường khi đang xem YouTube/TikTok. Giảm lag."
+  "notes": "Giao diện mới kiểu kính mờ; dock Bản đồ, YouTube, TikTok, Nhạc. Trình phát nhạc riêng: duyệt theo Bài hát, Ca sĩ, Album, Thư mục (bộ nhớ box, USB, thẻ nhớ). Vuốt thẻ thời tiết để xem bản đồ dẫn đường khi đang xem YouTube/TikTok. Giảm lag."
 }
